@@ -24,14 +24,14 @@ Seattle Airbnb Open Data is available in kaggle. [link](https://www.kaggle.com/a
 
 There are 3 notebooks available here to showcase work related to the above questions. File contents are as follows. 
 
-[Seattle Airbnb Open Data - Part 1.ipynb](Seattle Airbnb Open Data - Part 1.ipynb)<br>
+[Seattle Airbnb Open Data - Part 1.ipynb](https://github.com/akudo37/seattle/blob/master/Seattle%20Airbnb%20Open%20Data%20-%20Part%201.ipynb)<br>
     1 . Business Understanding<br>
     2 . Data Understanding<br>
 
-['Seattle Airbnb Open Data - Part 2.ipynb'](Seattle Airbnb Open Data - Part 2.ipynb)<br>
+['Seattle Airbnb Open Data - Part 2.ipynb'](https://github.com/akudo37/seattle/blob/master/Seattle%20Airbnb%20Open%20Data%20-%20Part%201.ipynb)<br>
     3 . Data Preparation<br>
 
-['Seattle Airbnb Open Data - Part 3.ipynb'](Seattle Airbnb Open Data - Part 3.ipynb)<br>
+['Seattle Airbnb Open Data - Part 3.ipynb'](https://github.com/akudo37/seattle/blob/master/Seattle%20Airbnb%20Open%20Data%20-%20Part%201.ipynb)<br>
     4 . Data Modeling<br>
     5 . Results Evaluation<br>
  
