@@ -37,7 +37,7 @@ There are 3 notebooks available here to showcase work related to the above quest
  
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](tbd).
+The main findings of the code can be found at the post available [here](https://medium.com/@akira.kudo7777/seattle-in-summer-is-earning-5a3532d50043).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
